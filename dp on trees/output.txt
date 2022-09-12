@@ -1,0 +1,14 @@
+The maximum height when node 1 is considered as root is = 3
+The maximum height when node 2 is considered as root is = 4
+The maximum height when node 3 is considered as root is = 3
+The maximum height when node 4 is considered as root is = 4
+The maximum height when node 5 is considered as root is = 5
+The maximum height when node 6 is considered as root is = 5
+The maximum height when node 7 is considered as root is = 5
+The maximum height when node 8 is considered as root is = 5
+The maximum height when node 9 is considered as root is = 5
+The maximum height when node 10 is considered as root is = 4
+The maximum height when node 11 is considered as root is = 4
+The maximum height when node 12 is considered as root is = 0
+The maximum height when node 13 is considered as root is = 0
+The maximum height when node 14 is considered as root is = 0
